@@ -1,0 +1,52 @@
+
+section{
+ background-image: url('../../assets/img/Head@2x.jpg');
+ background-size: cover;
+ height: 50%;
+ margin-top: -5%;
+}
+.col-md-6 {
+    margin-top: 10%;
+}
+.titel{
+    color: #fff;
+    text-align: left;
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding: 20%;
+    font-weight: bold;
+    
+}
+.titel p {
+    text-transform: capitalize;
+    font-size: initial;
+    margin: revert;
+    font-weight: 100;
+}
+.titel div {
+    padding: 3%;
+}
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 80%;
+  padding: 5%;
+}
+.btn-default {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: #000;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid white;
+  border-radius: 40px;
+  background: white;
+  transition: all 0.3s ease 0s;
+}
+
+.btn-default:hover {
+  color: #FFF;
+  background: rgba(108, 88, 179, 0.75);
+  border: 2px solid rgba(108, 89, 179, 0.75);
+}
