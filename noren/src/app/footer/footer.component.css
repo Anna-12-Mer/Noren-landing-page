@@ -1,0 +1,10 @@
+.bg-cover{
+  background-image: url('../../assets/img/Rectangle.jpg');
+  background-size: cover;
+  height: 50%;
+}
+ .logo{
+    margin-top: -15%;
+    width: 20%;
+    height: auto;
+  }

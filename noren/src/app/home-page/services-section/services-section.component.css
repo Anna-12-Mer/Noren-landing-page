@@ -1,0 +1,27 @@
+.section-one{
+    background-image: url('../../../assets/img/1.jpg') ;
+    background-repeat: no-repeat;
+}
+.section-two{
+    background-image: url('../../../assets/img/2.jpg') ;
+    background-repeat: no-repeat;
+}
+.section-tree{
+    background-image: url('../../../assets/img/3.jpg') ;
+    background-repeat: no-repeat;
+}
+.section-one h3 {
+    margin-top: 80%;
+    text-align: center;
+}
+.section-two h3{
+margin-top: 80%;
+text-align: center;
+}
+.section-tree h3{
+    margin-top: 80%;
+    text-align: center;
+}
+p{
+    padding: 3%;
+}
