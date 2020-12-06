@@ -59,10 +59,10 @@ nav {
     color: #fff;
   }
 
-  .nav > .nav-links > a:hover {
-    /* background-color: #f8c765; */
+  /* .nav > .nav-links > a:hover {
+    background-color: #f8c765;
 
-  }
+  } */
 
   .nav > #nav-check {
     display: none;

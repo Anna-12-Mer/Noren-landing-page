@@ -5,6 +5,11 @@ section{
  height: 50%;
  margin-top: -5%;
 }
+.bg-cover{
+  background-image: url('../../assets/img/Rectangle@2x.jpg');
+  background-size: cover;
+  height: 50%;
+}
 .col-md-6 {
     margin-top: 10%;
 }
@@ -23,6 +28,7 @@ section{
     font-size: initial;
     margin: revert;
     font-weight: 100;
+    text-align: left;
 }
 .titel div {
     padding: 3%;
