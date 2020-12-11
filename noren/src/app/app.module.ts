@@ -6,6 +6,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { ServicesSectionComponent } from './home-page/services-section/services-section.component';
+import { BusinessSectionComponent } from './home-page/business-section/business-section.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { ServicesSectionComponent } from './home-page/services-section/services-
     NavbarComponent,
     FooterComponent,
     HomePageComponent,
-    ServicesSectionComponent
+    ServicesSectionComponent,
+    BusinessSectionComponent
   ],
   imports: [
     BrowserModule
