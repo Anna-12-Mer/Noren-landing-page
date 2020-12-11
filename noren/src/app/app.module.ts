@@ -7,6 +7,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { ServicesSectionComponent } from './home-page/services-section/services-section.component';
 import { BusinessSectionComponent } from './home-page/business-section/business-section.component';
+import { SubscribeSectionComponent } from './home-page/subscribe-section/subscribe-section.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { BusinessSectionComponent } from './home-page/business-section/business-
     FooterComponent,
     HomePageComponent,
     ServicesSectionComponent,
-    BusinessSectionComponent
+    BusinessSectionComponent,
+    SubscribeSectionComponent
   ],
   imports: [
     BrowserModule
